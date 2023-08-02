@@ -8,10 +8,14 @@ email: yogasree0818@gmail.com
 username:yogasree0818
 
 screen shots:
+
+SEARCH PAGE:
 ![Screenshot 2023-08-02 183000](https://github.com/yogasreeo818/yogasree/assets/141234096/74f6d2e8-35c2-4c58-878e-80630e050f56)
 
 
+HOME PAGE:
 
 ![Screenshot 2023-08-02 182845](https://github.com/yogasreeo818/yogasree/assets/141234096/fa5e2241-b041-4bbd-9eb8-ee49a901f3a5)
+
 
 
